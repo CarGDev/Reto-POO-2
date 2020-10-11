@@ -1,0 +1,34 @@
+{
+  "name": "reto-poo-2",
+  "version": "1.0.0",
+  "description": "Constructores para crear personas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarGDev/Reto-POO-2.git"
+  },
+  "keywords": [
+    "POO"
+  ],
+  "author": "Carlos Gutierrez <ingecarlos.gutierrez@gmail.com> (https://cargdev.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CarGDev/Reto-POO-2/issues"
+  },
+  "homepage": "https://github.com/CarGDev/Reto-POO-2#readme",
+  "devDependencies": {
+    "jest": "^26.5.2"
+  },
+  "jest": {
+    "verbose": true,
+    "transformIgnorePatterns": [
+      "<rootDir>/(node_modules)/"
+    ]
+  },
+  "dependencies": {
+    "nanoid": "^3.1.12"
+  }
+}
