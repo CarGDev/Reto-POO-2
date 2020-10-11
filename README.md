@@ -18,3 +18,7 @@ Los métodos que se implementaran son:
 - Crea 3 objetos de la clase anterior, el primer objeto obtendrá las anteriores variables pedidas por teclado, el segundo objeto obtendrá todos los anteriores menos el peso y la altura y el último por defecto, para este último utiliza los métodos set para darle a los atributos un valor.
 - Indicar para cada objeto si es mayor de edad.
 - Por último, mostrar la información de cada objeto.
+
+## 3. Test
+
+![test.jpg](./images/test.JPG)
