@@ -22,3 +22,7 @@ Los métodos que se implementaran son:
 ## 3. Test
 
 ![test.jpg](./images/test.JPG)
+
+## 4. Resultados
+
+![results.jpg](./images/results.JPG)
